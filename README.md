@@ -6,7 +6,7 @@ Projeto desenvolvido para pratica das linguagens HTML e CSS.
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Plus**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | (https://alura-plus-rho-mocha.vercel.app/)
+| :rocket: URL         | https://alura-plus-rho-mocha.vercel.app/
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
